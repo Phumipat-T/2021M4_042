@@ -31,13 +31,11 @@ body .container {
     font-size:12px;
 }
 
-#nomargin {
-    margin-right: 115px;
-    padding-right: -20px;
-}
-
 @media screen and (max-width:991px){
     #sidemenu{
         border-style:none;
+    }
+    .col-8 {
+        width: 100%;
     }
 }
